@@ -1,0 +1,18 @@
+* {
+    background-color: bisque;
+    font-family: sans-serif;
+}
+
+.title {
+    color: brown;
+}
+
+.subtitle {
+    color: darkolivegreen;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
